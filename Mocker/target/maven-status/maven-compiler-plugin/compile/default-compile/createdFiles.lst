@@ -1,0 +1,5 @@
+com/ola/test/mocker/health/TemplateHealthCheck.class
+com/ola/test/mocker/HelloWorldConfiguration.class
+com/ola/test/mocker/HelloWorldApplication.class
+com/ola/test/mocker/core/Saying.class
+com/ola/test/mocker/resources/HelloWorldResource.class
